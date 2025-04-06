@@ -1,5 +1,6 @@
 ## Olá, mundo! 
- 
+
+ * Essa conta foi ativada, pois a antiga (com todo histórico) está bloqueada: https://github.com/luizaferreirafonseca
  * Atualmente estudo e programo em Angular e C#. 💻
  *  Tenho interesse em resolver problemas complexos e encontrar soluções criativas por meio da programação. 💡
  *  Fiz transição de carreira de Letras para área Tech. 📘
