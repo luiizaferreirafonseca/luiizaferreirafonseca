@@ -1,10 +1,10 @@
 ## Olá, eu sou a Luiza :)
 
  * Essa conta foi ativada, pois a antiga (com todo histórico) está bloqueada: https://github.com/luizaferreirafonseca
+ * Sou desenvolvedora fullstack. 💙
  * Atualmente estudo e programo em Angular e C#. 🤓
  *  Tenho interesse em resolver problemas complexos e encontrar soluções criativas por meio da programação. 💡
  *  Sou graduada em Letras e fiz transição para área Tech. Em 2026, eu me formo em Análise e Desenvolvimento de Sistemas. 📘
- *  Desenvolvedora fullstack. 💙
  *  Adoro criar, leituras, gatinhos e procurar o significado das palavras em diferentes idiomas. 
  
  
